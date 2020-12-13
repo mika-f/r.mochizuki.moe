@@ -1,5 +1,5 @@
 {
-    "routes": [
-        { "src": "/BoothSupport", "dest": "https://twitter.com/Nekonoya_Booth" }
+    "redirects": [
+        { "source": "/BoothSupport", "destination": "https://twitter.com/Nekonoya_Booth" }
     ]
 }
