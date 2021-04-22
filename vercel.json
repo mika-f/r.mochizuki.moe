@@ -1,7 +1,7 @@
 {
     "redirects": [
         { "source": "/Natsuneko",    "destination": "https://twitter.com/6jz" },
-        { "source": "/BoothSupport", "destination": "https://twitter.com/Nekonoya_Booth" },
+        { "source": "/BoothSupport", "destination": "https://twitter.com/NatsunekoLabs" },
         { "source": "/VRChat",       "destination": "https://vrchat.com/home/user/usr_f0ae733a-b3ea-4462-b9a7-8c386e860ac1" }
     ]
 }
